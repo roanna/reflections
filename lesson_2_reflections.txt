@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    When you initialize a repository a new hidden folder is being created. You can
+    create the repository even from existing files and folders.
+    
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+    
+    Staging area shows you recent changes in your files that wil be commited,
+    working directory is the place where your files are and repository consists 
+    of all stages and commits of your files that were made.
