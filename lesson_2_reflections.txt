@@ -9,3 +9,31 @@ repository? What value do you think it offers?
     Staging area shows you recent changes in your files that wil be commited,
     working directory is the place where your files are and repository consists 
     of all stages and commits of your files that were made.
+    
+How can you use the staging area to make sure you have one commit per logical 
+change?
+    
+    I think, you should add to the stage area file that you are working with
+    and than after changing them, adding to the commit.
+    
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+    Branches are helpful for organising you commitments into logical parts, as 
+    if you wanted to add some new functions as languages also you want to keep
+    your working version of the program.
+    
+How do the diagrams help you visualize the branch structure?
+    
+    Diagrams can help in understanding the project structure easily.
+    
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+    The result of merging branches is the new commit.
+    
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+    Auto merge can save your time, but it could not help you all the time,
+    because there could be unresolved conflicts.
